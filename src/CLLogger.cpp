@@ -4,8 +4,8 @@
 #include <string.h>
 #include <stdio.h>
 #include <stdlib.h>
-#include "CLLogger.h"
-#include "DefinitionForConst.h"
+#include "../include/CLLogger.h"
+#include "../include/DefinitionForConst.h"
 
 #define MAX_SIZE 265
 
